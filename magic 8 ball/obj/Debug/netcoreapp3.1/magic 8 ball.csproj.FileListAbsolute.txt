@@ -1,0 +1,19 @@
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\bin\Debug\netcoreapp3.1\magic 8 ball.exe
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\bin\Debug\netcoreapp3.1\magic 8 ball.deps.json
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\bin\Debug\netcoreapp3.1\magic 8 ball.runtimeconfig.json
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\bin\Debug\netcoreapp3.1\magic 8 ball.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\bin\Debug\netcoreapp3.1\magic 8 ball.dll
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\bin\Debug\netcoreapp3.1\magic 8 ball.pdb
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball_MarkupCompile.cache
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball_MarkupCompile.lref
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball.g.resources
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball.dll
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball.pdb
+C:\Users\jona444j\source\repos\magic 8 ball\magic 8 ball\obj\Debug\netcoreapp3.1\magic 8 ball.genruntimeconfig.cache

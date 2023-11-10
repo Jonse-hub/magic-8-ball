@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "magic 8 ball/1.0.0": {
+        "runtime": {
+          "magic 8 ball.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "magic 8 ball/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
